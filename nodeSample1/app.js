@@ -9,7 +9,6 @@ var freeMemory=os.freemem();
 console.log(`Total Memory: ${totalMemory}`);
 console.log(`Free Memory: ${freeMemory}`);
 
-
 // var pathObj=path.parse(__filename);
 // console.log(pathObj);
 // // function sayHello(name)
