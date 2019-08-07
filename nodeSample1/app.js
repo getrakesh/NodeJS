@@ -3,7 +3,9 @@ const path=require('path');
 const os=require('os');
 
 var totalMemory=os.totalmem();
-var freeMemory=os.freemem();
+var freeMemory=os.freemem();;
+
+
 
 // console.log('Total Memory '+ totalMemory);
 console.log(`Total Memory: ${totalMemory}`);
